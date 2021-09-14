@@ -5,13 +5,13 @@ url: "https://SuJeong2.github.io"
 # Blog Settings
 theme_settings:
   title: SuJeong2
-  favicon: assets/coding.png
+  favicon: assets/gestures.png
 
   # Profile Settings
   profile:
     image: assets/img/SuJeong2.jpg
     username: SUJEONG LEE
-    description: 수정쓰의 깃헙 블로그✍(◔◡◔)
+    description: 수정쓰의 깃헙 블로그¯\_( ͡° ͜ʖ ͡°)_/¯✍💻
     experience:
       - start: 2021-01
         end: ing
