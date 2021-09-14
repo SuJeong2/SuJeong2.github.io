@@ -11,8 +11,7 @@ theme_settings:
   profile:
     image: assets/img/SuJeong2.jpg
     username: SUJEONG LEE
-    description: 수정쓰의 깃헙 블로그¯\_( ͡° ͜ʖ ͡°)_/¯ 
-    공부하는 것들을 끄적여보자✍💻
+    description: 수정쓰의 깃헙 블로그( •̀ ω •́ )y 공부하는 것들을 끄적여보자✍💻
     experience:
       - start: 2021-01
         end: ing
