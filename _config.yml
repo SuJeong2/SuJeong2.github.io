@@ -5,13 +5,13 @@ url: "https://SuJeong2.github.io"
 # Blog Settings
 theme_settings:
   title: SuJeong2
-  favicon: assets/gestures.png
+  favicon: assets/smiling.png
 
   # Profile Settings
   profile:
     image: assets/img/SuJeong2.jpg
     username: SUJEONG LEE
-    description: 수정쓰의 깃헙 블로그¯\_( ͡° ͜ʖ ͡°)_/¯✍💻
+    description: 수정쓰의 깃헙 블로그¯\_( ͡° ͜ʖ ͡°)_/¯ \n 공부하는 것들을 끄적여보자✍💻
     experience:
       - start: 2021-01
         end: ing
@@ -37,6 +37,8 @@ theme_settings:
     youtube:
     facebook:
     instagram: sue_jjng
+    blog: sj971020
+    portfolio: portfolio
 
   # Disqus
   disqus_shortname:
