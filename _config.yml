@@ -1,40 +1,47 @@
 # Site Settings
 baseurl: ""
-url : "https://naye0ng.github.io"
+url: "https://SuJeong2.github.io"
 
 # Blog Settings
-theme_settings :
-  title : Grape Theme
-  favicon : assets/favicon.ico
+theme_settings:
+  title: SuJeong2
+  favicon: assets/smiling.png
 
   # Profile Settings
-  profile :
-    image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
-    experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
-    skills : 
-      - skill : HTML5 & CSS
-        value : 85  # Percent value
-        
+  profile:
+    image: assets/img/SuJeong2.jpg
+    username: SUJEONG LEE
+    description: <p>수정쓰의 깃헙 블로그( •̀ ω •́ )y </p> <p>공부하는 것들을 끄적여보자!✍💻 </p>
+    experience:
+      - start: 2021-01
+        end: ing
+        experience: 삼성 청년 SW 아카데미(SSAFY) 5기
+      - start: 2016-03
+        end: 2021-02
+        experience: 가천대학교(Gachon University) 졸업
+    skills:
+      - skill: Java
+        value: 80 # Percent value
+      - skill: Spring
+        value: 70 # Percent value
+
   # Icons
-  icons :
-    email:  # Full email address, e.g. "sample@google.com"
-    linkedin:  # Full URL 
-    github: naye0ng
-    gitlab: 
-    bitbucket: 
+  icons:
+    email: "lee.sujeong10111@gmail.com"
+    linkedin: # Full URL
+    github: SuJeong2
+    gitlab:
+    bitbucket:
     google_plus:
     twitter:
     youtube:
     facebook:
-    instagram:
+    instagram: sue_jjng
+    blog: sj971020
+    portfolio: portfolio
 
   # Disqus
-  disqus_shortname :
+  disqus_shortname:
 
 # Pagination
 paginate: 5
