@@ -5,7 +5,11 @@ url: "https://SuJeong2.github.io"
 # Blog Settings
 theme_settings:
   title: SuJeong2
+<<<<<<< HEAD
   favicon: assets/smiling.png
+=======
+  favicon: assets/writing(1).png
+>>>>>>> develop
 
   # Profile Settings
   profile:
