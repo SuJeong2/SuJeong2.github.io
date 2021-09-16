@@ -5,7 +5,7 @@ url: "https://SuJeong2.github.io"
 # Blog Settings
 theme_settings:
   title: SuJeong2
-  favicon: assets/writing(1).png
+  favicon: assets/writing.png
 
   # Profile Settings
   profile:
@@ -16,9 +16,24 @@ theme_settings:
       - start: 2021-01
         end: ing
         experience: 삼성 청년 SW 아카데미(SSAFY) 5기
-      - start: 2016-03
-        end: 2021-02
+      - start: 2021-02
         experience: 가천대학교(Gachon University) 졸업
+      - start: 2019-06
+        end: 2019-11
+        experience: 2019 SW 챌린지 공모전 <br>동상, 한국 SW 산업협회장상 수상
+      - start: 2019-05
+        experience: Ericsson-LG Girls in ICT 2019 해커톤 참가 <br>본선 진출
+      - start: 2018-07
+        end: 2018-08
+        experience: DPSOne 산학 인턴
+      - start: 2018-01
+        end: 2018-12
+        experience: 학부생 연구원 활동
+      - start: 2017-03
+        end: 2017-06
+        experience: 스마트폰 교육 봉사
+      - start: 2016-03
+        experience: 가천대학교(Gachon University) 입학
     skills:
       - skill: Java
         value: 80 # Percent value
